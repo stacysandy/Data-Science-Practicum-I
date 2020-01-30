@@ -1,5 +1,5 @@
 # Data-Science-Practicum-I
-A repository for my Data Science Practicum I at Regis University.
+A repository for my Data Science Practicum I Project at Regis University.
 
 # Project Title: Food is the Fuel to our Lives, but What Are We Really Consuming?
 
