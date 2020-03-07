@@ -105,6 +105,8 @@ This project and the data within this project became a large feat to overcome. I
 ### So, where do we go from here?
 We continue on to be more conscientious of our food consumption and the nutritional values. Or perhaps what can come next is if someone can create a method that can retrieve the nutritional data through an app. Could it be possible to scan the bar code on a food label and have the app return healthier alternatives? That would neat!
 
+### Link to my PowerPoint presentation on YouTube:  
+
 ### References and Sources
 
 CatBoost documentation https://catboost.ai/
