@@ -20,16 +20,8 @@ Other available websites that contain supplemental data for the USDA FoodData Ce
 * FoodData Central Data Type https://fdc.nal.usda.gov/data-documentation.html
 * Food and Nutrient Database for Dietary Studies https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fndds-download-databases/
 
-
-### Research Questions
-The research question at hand is that we need food to live and food is what makes our lives either better or worst. So, are we making the best food choices? What does nutritional value in food really mean? Are we eating nutritious food or are we eating what is easy, fast, and cheap? Do we really select the healthiest food? Or is our food selection based on other nutritional values or for other reasons? These high level research questions may expand upon themselves as the exploratory data analysis (EDA) can lead to other areas of interest or the unknown world of what is contained in the data.
-
 ### Data
 The following data sets are available in csv format and can be downloaded at the following link https://fdc.nal.usda.gov/download-datasets.html. In summary, the available files include Foundation Foods, Branded Foods, SR Legacy, Supporting data for Downloads, and Full Download of All Data Types. These files are the most recent data up to December 2019. A full description of these data sets are defined in the USDA FoodData Central website under "Notes on Downloads".
-
-### Available Documentations
-FoodData Central Documentation for the data sets can be found at the following link https://fdc.nal.usda.gov/data-documentation.html.
-FoodData Central API provides REST access to FoodData Central (FDC) and an API guide can be found at the following link: https://fdc.nal.usda.gov/api-guide.html
 
 ### Background: FoodData Central Data Types
 
@@ -72,20 +64,20 @@ See Jupyter Notebook: Stacey_Sandy-Practicum_I.ipnyb
 ### Original Goal: Are We Really Consuming the Healthiest Food?
 
 ### What Objective's did I meet?
-* So Are we making the healthiest food choices?
+* Are we making the healthiest food choices?<br>
 Well, we can make healthy food choice if we want to and now that we know more about the highest macronutrients; we can try our best to consume less syrup and desserts such as chocolate mouse.
 
-* What does nutritional value in food really mean?
+* What does nutritional value in food really mean?<br>
 It means we get energy from the nutrients within our food so it’s important for us to be knowledgeable on what we eat and what is in the food we eat.
 
-* Are we eating nutritious food or are we eating what is easy, fast, and cheap?
+* Are we eating nutritious food or are we eating what is easy, fast, and cheap?<br>
 Well I usually eat certain types of food if it tastes good, what ever the price it may be. So I didn’t get price values of the foods with my sticky rice and 100% Whole wheat bread food items from FoodData Central. But that could be a future endeavor if cost was of concern.
 
-* Is our food selection based on nutritional values or for other reasons?</b><br> 
+* Is our food selection based on nutritional values or for other reasons?<br> 
 Our food should be based on nutritional values or at least as I mentioned before, we all have our own dietary needs and health needs. Therefore, we should be knowledgeable about what we eat.<br>
 
 ### Primary Question in this project:
-* What if we could look take the nutritional values of a type of food, and then compare those values to see if our choice of food is the healthiest for us or if a healthier option is available?</b>
+* What if we could look take the nutritional values of a type of food, and then compare those values to see if our choice of food is the healthiest for us or if a healthier option is available?<br>
 
 In fact, we did succeed at this. We learned 100% whole wheat bread is healthier than sticky rice. And the honey 100% whole wheat bread had the lowest sugars, highest protein, and lowest carbohydrate values. It also had the lowest calories.<br>
 
@@ -102,7 +94,7 @@ I attempted to apply two Machine Learning Algorithms: the Decision Tree and CatB
 # Conclusion
 This project and the data within this project became a large feat to overcome. It all resulted in a small dataset to bring information to light on nutritional data. If time were not of the essence, I could have conducted multiple food searches to emphasize the potential of the data and information being pulled from FoodData Central. However, I would like to think this was a huge accomplishment.
 
-### So, where do we go from here?
+### Where do we go from here?
 We continue on to be more conscientious of our food consumption and the nutritional values. Or perhaps what can come next is if someone can create a method that can retrieve the nutritional data through an app. Could it be possible to scan the bar code on a food label and have the app return healthier alternatives? That would neat!
 
 ### Link to my PowerPoint presentation on YouTube:  
